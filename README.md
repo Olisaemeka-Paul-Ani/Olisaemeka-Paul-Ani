@@ -1,5 +1,7 @@
 <div align="center">
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG52OWRtMzlyajlkbDNpZnV1Y2k5bHBxYmZrZTZ5aWQ5enFhYzJvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" style="width:100%; max-height:100px; object-fit:cover;" alt="Header"/>
+ <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG52OWRtMzlyajlkbDNpZnV1Y2k5bHBxYmZrZTZ5aWQ5enFhYzJvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="600" alt="Header"/>
+</div>
 </div>
 
 <h1 align="center">Olisaemeka Paul Ani</h1>

@@ -1,5 +1,7 @@
 <div align="center">
+ <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y2bnZ2bTRmOWw0cGkzbmM2dHJoaHMzODh1Mm1vazlwenl5YXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="600" alt="Header"/>
+</div>
 </div>
 
 <h1 align="center">Olisaemeka Paul Ani</h1>
@@ -97,6 +99,14 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Olisaemeka-Paul-Ani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&icon_color=f4c542&text_color=c9d1d9" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olisaemeka-Paul-Ani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&text_color=c9d1d9" alt="Top Languages"/>
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Olisaemeka-Paul-Ani/Olisaemeka-Paul-Ani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---

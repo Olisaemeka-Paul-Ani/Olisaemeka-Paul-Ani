@@ -1,7 +1,5 @@
 <div align="center">
- <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y2bnZ2bTRmOWw0cGkzbmM2dHJoaHMzODh1Mm1vazlwenl5YXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="600" alt="Header"/>
-</div>
 </div>
 
 <h1 align="center">Olisaemeka Paul Ani</h1>
@@ -21,7 +19,8 @@ I don't need recognition. I need impact.
 ```yaml
 Current Focus: SWE @ ColorStack SFU
 Current Build: ColorStack SFU Slack Bot (Python)
-Location: Burnaby, BC
+Location: Moving between Burnaby, BC and Gotham, New Jersey
+Status: Seeking Summer 2027 SWE Internships
 ```
 
 ---
@@ -47,9 +46,17 @@ Location: Burnaby, BC
 
 ---
 
-### What I'm Building
+### Active Operations
 
-**ColorStack SFU Slack Bot** — *Currently in progress*  
+<div align="center">
+  <a href="https://github.com/Olisaemeka-Paul-Ani/colorstack-sfu-slack-bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Olisaemeka-Paul-Ani&repo=colorstack-sfu-slack-bot&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&icon_color=f4c542&text_color=c9d1d9" />
+  </a>
+</div>
+
+<br/>
+
+**ColorStack SFU Slack Bot** — *Mission in progress*  
 Python • Slack API  
 Like Alfred, but for a student organization. Handles the logistics so leadership can focus on the mission.
 
@@ -59,27 +66,42 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 
 ---
 
-### The Numbers
+### The Next Move
+
+🦇 **Summer 2027: The Internship Hunt**
+- LeetCode: 300+ problems by September 2026
+- Shipping: LeetGrind to App Store (May 2026)
+- Building in public: ColorStack SFU infrastructure
+
+⚡ **Current Builds**
+- ColorStack SFU Slack Bot (Python, Slack API)
+- LeetGrind (React Native, Expo, Supabase)
+- ColorStack SFU Website (React, Vite, Framer Motion)
+
+---
+
+### Combat Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olisaemeka-Paul-Ani&theme=dark&hide_border=true&background=0d1117&ring=f4c542&fire=f4c542&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Olisaemeka?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Olisaemeka-Paul-Ani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&icon_color=f4c542&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olisaemeka-Paul-Ani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Olisaemeka-Paul-Ani/Olisaemeka-Paul-Ani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-### Connect
+### Signal
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olisaemeka-paul-ani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

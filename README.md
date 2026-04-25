@@ -85,7 +85,7 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 ### Combat Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olisaemeka-Paul-Ani&theme=dark&hide_border=true&background=0d1117&ring=f4c542&fire=f4c542&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olisaemeka-Paul-Ani&theme=dark&hide_border=true&background=0d1117&ring=f4c542&fire=f4c542&currStreakLabel=c9d1d9&cache_seconds=1800" alt="GitHub Streak"/>
 </div>
 
 <br/>

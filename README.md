@@ -79,8 +79,8 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 - Building in public: ColorStack SFU infrastructure
 
 ⚡ **Current Builds**
-- ColorStack SFU Slack Bot (Python, Slack API)
-- LeetGrind (React Native, Expo, Supabase)
+- ColorStack SFU Slack Bot (Python, Slack API, GraphQL, AWS EC2)
+- LeetGrind (React Native, Expo, Supabase, Zustand)
 - ColorStack SFU Website (React, Vite, Framer Motion)
 
 ---

@@ -16,7 +16,7 @@
 
 By day, I'm a **Data Science and Computer Science student at Simon Fraser University**. By night, I build systems that solve problems most won't touch.
 
-I don't need recognition. I need impact.
+The work speaks. It always does.
 
 ```yaml
 Current Focus: SWE @ ColorStack SFU
@@ -114,13 +114,21 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 </div>
 
 ---
-
 ### Signal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/olisaemeka-paul-ani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center" style="margin:0">
+  <a href="https://www.linkedin.com/in/olisaemeka-paul-ani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:opa8@sfu.ca">
+    <img src="https://img.shields.io/badge/BAT_SIGNAL-F5C518?style=for-the-badge&labelColor=0d0d0d&color=F5C518"/>
+  </a>
 </p>
 
-<div align="center">
+<p align="center" style="margin:0">
+  <i>Light the Bat Signal. It goes straight to me.</i>
+</p>
+
+<p align="center" style="margin:0">
   <img src="https://komarev.com/ghpvc/?username=Olisaemeka-Paul-Ani&color=yellow&style=flat-square" alt="Profile views"/>
-</div>
+</p>

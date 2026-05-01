@@ -101,8 +101,8 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olisaemeka-Paul-Ani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&icon_color=f4c542&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olisaemeka-Paul-Ani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&text_color=c9d1d9" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Olisaemeka-Paul-Ani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&icon_color=f4c542&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Olisaemeka-Paul-Ani&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 ---

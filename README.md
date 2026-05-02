@@ -54,11 +54,21 @@ Status: Seeking Summer 2027 SWE Internships
 
 ### Active Operations
 
-<div align="center">
-  <a href="https://github.com/Olisaemeka-Paul-Ani/colorstack-sfu-slack-bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Olisaemeka-Paul-Ani&repo=colorstack-sfu-slack-bot&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4c542&icon_color=f4c542&text_color=c9d1d9" />
-  </a>
-</div>
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/Olisaemeka-Paul-Ani/colorstack-sfu-slack-bot">
+<img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Olisaemeka-Paul-Ani&repo=colorstack-sfu-slack-bot&theme=dark&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=A09D97&border_color=2A2A2A" />
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Olisaemeka-Paul-Ani/leetgrind">
+<img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Olisaemeka-Paul-Ani&repo=leetgrind&theme=dark&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=A09D97&border_color=2A2A2A" />
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 

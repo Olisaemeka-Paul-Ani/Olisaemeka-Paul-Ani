@@ -87,7 +87,7 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 
 🦇 **Summer 2027: The Internship Hunt**
 - LeetCode: 300+ problems by September 2026
-- Shipping: LeetGrind to App Store (May 2026)
+- Shipping: LeetGrind to App Store (August 2026)
 - Building in public: ColorStack SFU infrastructure
 
 ⚡ **Current Builds**

@@ -79,7 +79,7 @@ Python • Slack API
 Like Alfred, but for a student organization. Handles the logistics so leadership can focus on the mission.
 
 **LeetGrind** — *LeetCode accountability tracker*  
-React Native • Expo • Supabase  
+React Native • Expo • Supabase  • Zustand  
 The Batcave for your grinding sessions. Track progress, stay disciplined, ship results.
 
 ---

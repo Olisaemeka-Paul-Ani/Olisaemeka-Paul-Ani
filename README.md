@@ -137,7 +137,7 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
   </a>
      <a href="https://raw.githubusercontent.com/Olisaemeka-Paul-Ani/resume/main/resume.png" target="_blank">
             <img src="https://img.shields.io/badge/🦇_Resume-000000?style=for-the-badge&labelColor=F5C518&color=F5C518" alt="Resume"/>
-     </a>a>
+     </a>
 </p>
 
 <p align="center" style="margin:0">

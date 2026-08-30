@@ -90,12 +90,6 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 - LeetCode: 300+ problems by September 2026
 - Shipping: LeetGrind to App Store (August 2026)
 - Building in public: ColorStack SFU infrastructure
-
-⚡ **Current Builds**
-- ColorStack SFU Slack Bot (Python, Slack API, GraphQL, AWS EC2)
-- LeetGrind (React Native, Expo, Supabase, Zustand)
-- ColorStack SFU Website (React, Vite, Framer Motion)
-
 ---
 
 ### Combat Stats

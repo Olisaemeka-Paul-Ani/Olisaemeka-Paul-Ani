@@ -20,7 +20,6 @@ The work speaks. It always does.
 
 ```yaml
 Current Focus: SWE @ ColorStack SFU
-Current Build: LeetGrind (React Native, Zustand, Expo, RevenueCat, SupaBase)
 Location: Moving between Burnaby, BC and Gotham, New Jersey
 Status: Seeking Summer 2027 SWE Internships
 ```

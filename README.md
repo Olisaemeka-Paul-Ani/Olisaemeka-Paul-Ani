@@ -1,7 +1,7 @@
 <div align="center">
- <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y2bnZ2bTRmOWw0cGkzbmM2dHJoaHMzODh1Mm1vazlwenl5YXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="600" alt="Header"/>
-</div>
+  <div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y2bnZ2bTRmOWw0cGkzbmM2dHJoaHMzODh1Mm1vazlwenl5YXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="600" alt="Header"/>
+  </div>
 </div>
 
 <h1 align="center">Olisaemeka Paul Ani</h1>
@@ -36,7 +36,7 @@ Status: Seeking Summer 2027 SWE Internships
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
@@ -74,22 +74,6 @@ Status: Seeking Summer 2027 SWE Internships
 
 <br/>
 
-**ColorStack SFU Slack Bot** — *Mission in progress*  
-Python • Slack API  
-Like Alfred, but for a student organization. Handles the logistics so leadership can focus on the mission.
-
-**LeetGrind** — *LeetCode accountability tracker*  
-React Native • Expo • Supabase  • Zustand  
-The Batcave for your grinding sessions. Track progress, stay disciplined, ship results.
-
----
-
-### The Next Move
-
-🦇 **Summer 2027: The Internship Hunt**
-- LeetCode: 300+ problems by September 2026
-- Shipping: LeetGrind to App Store (August 2026)
-- Building in public: ColorStack SFU infrastructure
 ---
 
 ### Combat Stats
@@ -119,6 +103,7 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
 </div>
 
 ---
+
 ### Signal
 
 <p align="center" style="margin:0">
@@ -128,13 +113,9 @@ The Batcave for your grinding sessions. Track progress, stay disciplined, ship r
   <a href="mailto:opa8@sfu.ca">
     <img src="https://img.shields.io/badge/BAT_SIGNAL-F5C518?style=for-the-badge&labelColor=0d0d0d&color=F5C518"/>
   </a>
-     <a href="https://raw.githubusercontent.com/Olisaemeka-Paul-Ani/resume/main/resume.png" target="_blank">
-            <img src="https://img.shields.io/badge/🦇_Resume-000000?style=for-the-badge&labelColor=F5C518&color=F5C518" alt="Resume"/>
-     </a>
-</p>
-
-<p align="center" style="margin:0">
-  <i>Light the Bat Signal. It goes straight to me.</i>
+    <a href="https://raw.githubusercontent.com/Olisaemeka-Paul-Ani/resume/main/resume.png" target="_blank">
+        <img src="https://img.shields.io/badge/🦇_Resume-000000?style=for-the-badge&labelColor=F5C518&color=F5C518" alt="Resume"/>
+    </a>
 </p>
 
 <p align="center" style="margin:0">

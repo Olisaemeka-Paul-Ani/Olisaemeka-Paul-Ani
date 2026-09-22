@@ -65,8 +65,8 @@ Status: Seeking Summer 2027 SWE Internships
 </td>
 
 <td>
-<a href="https://github.com/Olisaemeka-Paul-Ani/leetgrind">
-<img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Olisaemeka-Paul-Ani&repo=leetgrind&theme=dark&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=A09D97&border_color=2A2A2A" />
+<a href="https://github.com/Olisaemeka-Paul-Ani/Ferguson">
+<img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Olisaemeka-Paul-Ani&repo=Ferguson&theme=dark&bg_color=0A0A0A&title_color=F5C518&icon_color=F5C518&text_color=A09D97&border_color=2A2A2A" />
 </a>
 </td>
 </tr>

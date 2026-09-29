@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Y2bnZ2bTRmOWw0cGkzbmM2dHJoaHMzODh1Mm1vazlwenl5YXB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.gif" width="600" alt="Header"/>
-</div>
-
 <h1 align="center">Olisaemeka Paul Ani</h1>
 
 <p align="center">

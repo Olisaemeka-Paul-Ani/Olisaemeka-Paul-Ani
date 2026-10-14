@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://olisaemeka-paul-ani.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/olisaemeka-paul-ani/">LinkedIn</a> ·
-  <a href="https://raw.githubusercontent.com/Olisaemeka-Paul-Ani/resume/main/resume.png">Resume</a> ·
+  <a href="https://github.com/Olisaemeka-Paul-Ani/resume/blob/main/Olisaemeka_Ani_Resume.pdf" target="_blank">Resume</a> ·
   <a href="mailto:opa8@sfu.ca">Email</a>
 </p>
 
